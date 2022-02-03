@@ -1,2 +1,2 @@
 # Masters Project
- Multi Timeframe Optimisation and Machine Learning Risk Optimisation
+Timeframe Optimisation and Machine Learning Risk Optimisation
